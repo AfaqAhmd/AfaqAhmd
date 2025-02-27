@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afaq Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afaqahmd&label=Profile%20views&color=0e75b6&style=flat" alt="afaqahmd" /> </p>
 
 - 🌱 I’m currently learning **react.js next.js**
 
